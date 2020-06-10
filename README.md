@@ -3,7 +3,7 @@ title: README
 ---
 ## {{site.name| upcase}} Network
 
-date: {{site.time}} ({{site.now}})
+date: {{site.time}}
 
 Welcome to the Krysthal Intelligence Network (a.k.a [KIN])
 
