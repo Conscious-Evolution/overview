@@ -1,8 +1,9 @@
 ---
 title: README
-date: "{{DATE}}"
 ---
 ## {{site.name| upcase}} Network
+
+date: {{site.time}} ({{site.now}})
 
 Welcome to the Krysthal Intelligence Network (a.k.a [KIN])
 
